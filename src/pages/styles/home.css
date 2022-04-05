@@ -1,0 +1,16 @@
+.home__bg {
+  background-image: url(https://g.foolcdn.com/editorial/images/551979/video-games-pc-gaming.jpg);
+  height: 92vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.home-message-icon {
+  margin-left: 10px;
+}
+
+.home_btn {
+  background: teal;
+}

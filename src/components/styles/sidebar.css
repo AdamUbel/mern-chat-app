@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Balthazar&display=swap");
+
+.rooms,
+.members {
+  margin-top: 50px;
+  box-shadow: 0px 5px 20px lightskyblue;
+  border-radius: 5px;
+}
+
+.sidebar_title {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Balthazar", serif;
+  font-size: 3rem;
+}
+
+.sidebar_item {
+  background: #c9d6ff; /* fallback for old browsers */
+
+  font-family: "Balthazar", serif;
+  font-size: 1.5rem;
+  box-shadow: 0px 5px 20px #023436;
+}

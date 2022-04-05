@@ -1,0 +1,12 @@
+.login__bg {
+  background-image: url(https://g.foolcdn.com/editorial/images/539469/a-gamer-playing-on-a-pc.jpg);
+  height: 92vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.lnk {
+  color: aliceblue;
+}
